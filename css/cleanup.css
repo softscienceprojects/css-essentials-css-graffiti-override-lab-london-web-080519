@@ -23,7 +23,7 @@
 
 div#wall #tag-3.slick {
   background: url(../images/tag-3.png) no-repeat;
-  z-index: 5;
+  z-index: 0;
   display: block;
 }
 
@@ -35,7 +35,7 @@ div#wall #tag-3.slick {
 
 div#wall .parent #tag-5.slick {
   background: url(../images/tag-5.png) no-repeat;
-  z-index: 3;
+  z-index: 0;
   display: block;
 }
 
